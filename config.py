@@ -47,7 +47,7 @@ class Config(object):
     TECH_VJ_PROCESS_MAX_TIMEOUT = 3600
     
     # your telegram account id
-    TECH_VJ_OWNER_ID = int(os.environ.get("TECH_VJ_OWNER_ID", "1425888381""1950033192")) 
+    TECH_VJ_OWNER_ID = int(os.environ.get("TECH_VJ_OWNER_ID", "1950033192")) 
     TECH_VJ_SESSION_NAME = "VJ-URL-UPLOADER-BOT"
     
     # database uri (mongodb)
